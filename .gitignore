@@ -1,0 +1,11 @@
+**/__pycache__/
+**/.venv/
+**/.env
+**/data/**
+**/artifacts/**
+**/reports/*.json
+**/reports/*.png
+**/reports/*.csv
+**/*.pt
+**/*.pth
+**/*.joblib
